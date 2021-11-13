@@ -1,0 +1,11 @@
+{
+  "name": "tailwind_css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build.css": "tailwind build src/tailwind.css -o output/tailwind.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
